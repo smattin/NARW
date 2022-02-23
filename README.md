@@ -1,7 +1,8 @@
-# NARW - North American Right Whale 
+# NARW 
+![North American Right Whale]()
 
 ## what 
-[NOAA Fisheries](https://storymaps.arcgis.com/stories/efb2e1d058054fb6a1487d964397bffd)
+[A Risk Analysis of Entanglement](https://storymaps.arcgis.com/stories/efb2e1d058054fb6a1487d964397bffd)
 ### whoi
 * scientists (including citizens)
 * management- multi-level
