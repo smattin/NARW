@@ -21,9 +21,9 @@
 * [scientists (including citizens)](https://www.whoi.edu/know-your-ocean/ocean-topics/ocean-life/right-whales/)
 * management- multi-level
 * fishing 
-** whalers 
-** lobster and crab fishers
-** others (lines, nets)
+ * whalers 
+ * lobster and crab fishers
+ * others (lines, nets)
 * shipping
 
 ## where / when  
@@ -49,16 +49,16 @@
 * speed limits - slow down when right whales are seen
 * weak rope and ropeless aka on-call fishing gear
 
-** [weak rope - breaks](https://www.mass.gov/doc/12422-dmf-offering-free-buoy-line-marking-materials-and-additional-free-weak-rope/download)
+ * [weak rope - breaks](https://www.mass.gov/doc/12422-dmf-offering-free-buoy-line-marking-materials-and-additional-free-weak-rope/download)
     
-#### [early ropeless technology](https://www.whoi.edu/oceanus/feature/whale-safe-fishing-gear/)
+ * [early ropeless technology](https://www.whoi.edu/oceanus/feature/whale-safe-fishing-gear/)
 
-#### [ongoing technology testing](https://www.mass.gov/service-details/ropeless-fishing-gear-feasibility-study)
+ * [ongoing technology testing](https://www.mass.gov/service-details/ropeless-fishing-gear-feasibility-study)
 
-#### [SMELTS](https://www.smelts.org/)
+  * [SMELTS](https://www.smelts.org/)
 
-#### [EdgeTech](https://www.edgetech.com/)
+  * [EdgeTech](https://www.edgetech.com/)
 
-[challenges](https://capecodfishermen.org/item/aidsropelesshear-0127?category_id=9)
+ * [challenges](https://capecodfishermen.org/item/aidsropelesshear-0127?category_id=9)
 
-[Pioneers for a Thoughtful Co-Existence](https://www.capeandislands.org/local-news/2022-01-13/lobsterman-v-lobsterman-fight-over-ropeless-fishing-divides-industry)
+  * [Pioneers for a Thoughtful Co-Existence](https://www.capeandislands.org/local-news/2022-01-13/lobsterman-v-lobsterman-fight-over-ropeless-fishing-divides-industry)
