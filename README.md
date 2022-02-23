@@ -1,9 +1,9 @@
 # NARW 
-![North American Right Whale](D540D218-14A3-41CC-A279-9607FC1EE487.jpeg)
+![North American Right Whale - Eubalaena glacialis](D540D218-14A3-41CC-A279-9607FC1EE487.jpeg)
 
 ## what 
 
-[NOAA FISHERIES - North American Right Whale](https://www.fisheries.noaa.gov/species/north-american-right-whale)
+[North American Right Whale - Eubalaena glacialis](https://www.fisheries.noaa.gov/species/north-atlantic-right-whale)
 
 ### whoi
 * scientists (including citizens)
