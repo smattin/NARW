@@ -5,6 +5,8 @@
 
 [whale entanglement](https://www.andersoncabotcenterforoceanlife.org/blog/scenes-from-a-right-whale-entanglement)
 
+[another film - Entangled](https://entangled-film.com/)
+
 ## what 
 
 [North American Right Whale - Eubalaena glacialis](https://www.fisheries.noaa.gov/species/north-atlantic-right-whale)
@@ -28,4 +30,7 @@
 ## how 
 [science, regulation, and technology](https://www.fisheries.noaa.gov/search?oq=north+american+right+whale)
 add ropeless links
+
+[SMELTS](https://www.smelts.org/)
+
 [challenges](https://capecodfishermen.org/item/aidsropelesshear-0127?category_id=9)
