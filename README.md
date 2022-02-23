@@ -34,14 +34,17 @@
 
 [science, regulation, and technology](https://www.fisheries.noaa.gov/search?oq=north+american+right+whale)
 
-### ropeless aka on-call fishing gear links
+season limits -
+speed limits - slow down when right whales are seen
 
-    [weak rope - breaks](https://www.mass.gov/doc/12422-dmf-offering-free-buoy-line-marking-materials-and-additional-free-weak-rope/download)
+### weak rope and ropeless aka on-call fishing gear
+
+#### [weak rope - breaks](https://www.mass.gov/doc/12422-dmf-offering-free-buoy-line-marking-materials-and-additional-free-weak-rope/download)
     
-    [early ropeless technology](https://www.whoi.edu/oceanus/feature/whale-safe-fishing-gear/)
+#### [early ropeless technology](https://www.whoi.edu/oceanus/feature/whale-safe-fishing-gear/)
 
-    [ongoing technology testing](https://www.mass.gov/service-details/ropeless-fishing-gear-feasibility-study)
+#### [ongoing technology testing](https://www.mass.gov/service-details/ropeless-fishing-gear-feasibility-study)
 
-    [SMELTS](https://www.smelts.org/)
+#### [SMELTS](https://www.smelts.org/)
 
 [challenges](https://capecodfishermen.org/item/aidsropelesshear-0127?category_id=9)
