@@ -25,13 +25,23 @@
    https://whalemap.ocean.dal.ca/#map
 
 ## why
+
 [A Risk Analysis of Entanglement](https://storymaps.arcgis.com/stories/efb2e1d058054fb6a1487d964397bffd)
 
-## how 
-[science, regulation, and technology](https://www.fisheries.noaa.gov/search?oq=north+american+right+whale)
-add ropeless links
-[early ropeless technology](https://www.whoi.edu/oceanus/feature/whale-safe-fishing-gear/)
+["Unusual Mortality"](https://www.fisheries.noaa.gov/national/marine-life-distress/2017-2022-north-atlantic-right-whale-unusual-mortality-event)
 
-[SMELTS](https://www.smelts.org/)
+## how 
+
+[science, regulation, and technology](https://www.fisheries.noaa.gov/search?oq=north+american+right+whale)
+
+### ropeless aka on-call fishing gear links
+
+    [weak rope - breaks](https://www.mass.gov/doc/12422-dmf-offering-free-buoy-line-marking-materials-and-additional-free-weak-rope/download)
+    
+    [early ropeless technology](https://www.whoi.edu/oceanus/feature/whale-safe-fishing-gear/)
+
+    [ongoing technology testing](https://www.mass.gov/service-details/ropeless-fishing-gear-feasibility-study)
+
+    [SMELTS](https://www.smelts.org/)
 
 [challenges](https://capecodfishermen.org/item/aidsropelesshear-0127?category_id=9)
