@@ -44,12 +44,12 @@
 
 ### and how [gory](https://github.com/robibok/whales) [details](https://blog.deepsense.ai/deep-learning-right-whale-recognition-kaggle/)
 
-
+* ROVs - acoustic detection of whales
 * season limits -
 * speed limits - slow down when right whales are seen
 * weak rope and ropeless aka on-call fishing gear
 
-#### [weak rope - breaks](https://www.mass.gov/doc/12422-dmf-offering-free-buoy-line-marking-materials-and-additional-free-weak-rope/download)
+** [weak rope - breaks](https://www.mass.gov/doc/12422-dmf-offering-free-buoy-line-marking-materials-and-additional-free-weak-rope/download)
     
 #### [early ropeless technology](https://www.whoi.edu/oceanus/feature/whale-safe-fishing-gear/)
 
