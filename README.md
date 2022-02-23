@@ -50,4 +50,6 @@ speed limits - slow down when right whales are seen
 
 #### [SMELTS](https://www.smelts.org/)
 
+#### [EdgeTech](https://www.edgetech.com/)
+
 [challenges](https://capecodfishermen.org/item/aidsropelesshear-0127?category_id=9)
