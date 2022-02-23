@@ -37,6 +37,8 @@
 
 ## how 
 
+[AI for whale id from photos](https://www.fisheries.noaa.gov/new-england-mid-atlantic/science-data/artificial-intelligence-right-whale-photo-identification)
+
 [science, regulation, and technology](https://www.fisheries.noaa.gov/search?oq=north+american+right+whale)
 
 season limits -
