@@ -13,7 +13,7 @@
 
 ### whoi
 * whales http://rwcatalog.neaq.org/#/whales
-* scientists (including citizens)
+* [scientists (including citizens)](https://www.whoi.edu/know-your-ocean/ocean-topics/ocean-life/right-whales/)
 * management- multi-level
 * fishing 
 ** whalers 
@@ -30,6 +30,7 @@
 ## how 
 [science, regulation, and technology](https://www.fisheries.noaa.gov/search?oq=north+american+right+whale)
 add ropeless links
+[early ropeless technology](https://www.whoi.edu/oceanus/feature/whale-safe-fishing-gear/)
 
 [SMELTS](https://www.smelts.org/)
 
