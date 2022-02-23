@@ -37,16 +37,17 @@
 
 ## how 
 
+
+[science, regulation, and technology](https://www.fisheries.noaa.gov/search?oq=north+american+right+whale)
+
 [AI for whale id from photos](https://www.fisheries.noaa.gov/new-england-mid-atlantic/science-data/artificial-intelligence-right-whale-photo-identification) https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.13226 
 
 ### and how [gory](https://github.com/robibok/whales) [details](https://blog.deepsense.ai/deep-learning-right-whale-recognition-kaggle/)
 
-[science, regulation, and technology](https://www.fisheries.noaa.gov/search?oq=north+american+right+whale)
 
-season limits -
-speed limits - slow down when right whales are seen
-
-### weak rope and ropeless aka on-call fishing gear
+* season limits -
+* speed limits - slow down when right whales are seen
+* weak rope and ropeless aka on-call fishing gear
 
 #### [weak rope - breaks](https://www.mass.gov/doc/12422-dmf-offering-free-buoy-line-marking-materials-and-additional-free-weak-rope/download)
     
