@@ -53,3 +53,5 @@ speed limits - slow down when right whales are seen
 #### [EdgeTech](https://www.edgetech.com/)
 
 [challenges](https://capecodfishermen.org/item/aidsropelesshear-0127?category_id=9)
+
+[Pioneers for a Thoughtful Co-Existence](https://www.capeandislands.org/local-news/2022-01-13/lobsterman-v-lobsterman-fight-over-ropeless-fishing-divides-industry]
