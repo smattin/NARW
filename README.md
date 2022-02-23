@@ -6,6 +6,7 @@
 [North American Right Whale - Eubalaena glacialis](https://www.fisheries.noaa.gov/species/north-atlantic-right-whale)
 
 ### whoi
+* whales http://rwcatalog.neaq.org/#/whales
 * scientists (including citizens)
 * management- multi-level
 * fishing 
