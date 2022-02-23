@@ -13,6 +13,8 @@
 
 [Whale Anatomy](https://oceantoday.noaa.gov/whaleanatomy/welcome.html)
 
+[Human Connections](https://ocean.si.edu/ocean-life/marine-mammals/north-atlantic-right-whale)
+
 ### whoi
 * whales http://rwcatalog.neaq.org/#/whales
 * [Snow Cone](https://www.fisheries.noaa.gov/feature-story/snow-cone-watch-updates-entangled-right-whale-mother-and-newborn-calf)
