@@ -11,6 +11,8 @@
 
 [North American Right Whale - Eubalaena glacialis](https://www.fisheries.noaa.gov/species/north-atlantic-right-whale)
 
+[Whale Anatomy](https://oceantoday.noaa.gov/whaleanatomy/welcome.html)
+
 ### whoi
 * whales http://rwcatalog.neaq.org/#/whales
 * [Snow Cone](https://www.fisheries.noaa.gov/feature-story/snow-cone-watch-updates-entangled-right-whale-mother-and-newborn-calf)
