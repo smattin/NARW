@@ -1,6 +1,10 @@
 # NARW 
 ![North American Right Whale - Eubalaena glacialis](D540D218-14A3-41CC-A279-9607FC1EE487.jpeg)
 
+[Last of the Right Whales](https://lastoftherightwhales.com)
+
+[whale entanglement](https://www.andersoncabotcenterforoceanlife.org/blog/scenes-from-a-right-whale-entanglement)
+
 ## what 
 
 [North American Right Whale - Eubalaena glacialis](https://www.fisheries.noaa.gov/species/north-atlantic-right-whale)
