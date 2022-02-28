@@ -22,7 +22,7 @@
 * management- multi-level
   * [Atlantic Large Whale Take Reduction](https://www.youtube.com/watch?v=fgrjMufULng) - 1997 (25 years)
     * yearly "stock assessment"
-  * Endangered Species Act - "jepordy"
+  * Endangered Species Act - "jeopardy"
 * fishing 
   * whalers 
   * lobster and crab fishers
