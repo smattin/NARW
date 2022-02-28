@@ -20,6 +20,8 @@
 * [Snow Cone](https://www.fisheries.noaa.gov/feature-story/snow-cone-watch-updates-entangled-right-whale-mother-and-newborn-calf)
 * [scientists (including citizens)](https://www.whoi.edu/know-your-ocean/ocean-topics/ocean-life/right-whales/)
 * management- multi-level
+ * [Atlantic Large Whale Take Reduction](https://www.youtube.com/watch?v=fgrjMufULng) - 1997
+ * Endangered Species Act - "jepordy"
 * fishing 
  * whalers 
  * lobster and crab fishers
