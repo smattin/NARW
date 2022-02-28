@@ -61,4 +61,5 @@
  * [challenges](https://capecodfishermen.org/item/aidsropelesshear-0127?category_id=9)
    * [Pioneers for a Thoughtful Co-Existence](https://www.capeandislands.org/local-news/2022-01-13/lobsterman-v-lobsterman-fight-over-ropeless-fishing-divides-industry)
    * ropeless gear should also include locator tech, so anyone (trawlers) can know where there are traps without buoys 
- * gill nets?
+ * gill nets - acoustic signals to warn whales
+ * [2021 proposed regulation changes](https://media.fisheries.noaa.gov/2021-01/TRTFactSheetRev011221.pdf)
