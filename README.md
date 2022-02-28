@@ -27,6 +27,7 @@
   * whalers 
   * lobster and crab fishers
   * others (lines, nets)
+  * tracking vessels for research and enforcement
 * shipping
 
 ## where / when  
