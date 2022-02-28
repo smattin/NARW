@@ -51,6 +51,7 @@
 * season limits -
 * speed limits - slow down when right whales are seen
 * weak rope and ropeless aka on-call fishing gear
+* traps/trawl - less vertical lines
 
  * [weak rope - breaks](https://www.mass.gov/doc/12422-dmf-offering-free-buoy-line-marking-materials-and-additional-free-weak-rope/download)
  * [early ropeless technology](https://www.whoi.edu/oceanus/feature/whale-safe-fishing-gear/)
