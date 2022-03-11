@@ -9,7 +9,7 @@
 
 ## what 
 
-[North American Right Whale - Eubalaena glacialis](https://www.fisheries.noaa.gov/species/north-atlantic-right-whale)
+[North Atlantic Right Whale - Eubalaena glacialis](https://www.fisheries.noaa.gov/species/north-atlantic-right-whale)
 
 [Whale Anatomy](https://oceantoday.noaa.gov/whaleanatomy/welcome.html)
 
