@@ -43,10 +43,11 @@ lobster fishing has moved farther off-shore (overfishing nearer?) and ropes got 
 
 ## how 
 
-
 [science, regulation, and technology](https://www.fisheries.noaa.gov/search?oq=north+american+right+whale)
 
 [AI for whale id from photos](https://www.fisheries.noaa.gov/new-england-mid-atlantic/science-data/artificial-intelligence-right-whale-photo-identification) https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.13226 
+
+Closures around Cape Code since 2015
 
 ### and how [gory](https://github.com/robibok/whales) [details](https://blog.deepsense.ai/deep-learning-right-whale-recognition-kaggle/)
 
