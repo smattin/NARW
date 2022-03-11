@@ -35,6 +35,8 @@
 
 ## why
 
+lobster fishing has moved farther off-shore (overfishing nearer?) and ropes got stronger 
+
 [A Risk Analysis of Entanglement](https://storymaps.arcgis.com/stories/efb2e1d058054fb6a1487d964397bffd)
 
 ["Unusual Mortality"](https://www.fisheries.noaa.gov/national/marine-life-distress/2017-2022-north-atlantic-right-whale-unusual-mortality-event)
@@ -63,3 +65,4 @@
    * ropeless gear should also include locator tech, so anyone (trawlers) can know where there are traps without buoys 
  * gill nets - acoustic signals to warn whales
  * [2021 proposed regulation changes](https://media.fisheries.noaa.gov/2021-01/TRTFactSheetRev011221.pdf) related to [ALWTR](https://fisheries.noaa.gov/ALWTRP)
+   * around 2/3 of entanglements are occuring in Gulf 0f Main and Canada
