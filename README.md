@@ -23,7 +23,7 @@
 
 ## whoi
 * whales http://rwcatalog.neaq.org/#/whales
-* [Snow Cone](https://www.fisheries.noaa.gov/feature-story/snow-cone-watch-updates-entangled-right-whale-mother-and-newborn-calf)
+* [Snow Cone](https://www.fisheries.noaa.gov/feature-story/snow-cone-watch-updates-entangled-right-whale-mother-and-newborn-calf) [NARW #3560](https://www.youtube.com/watch?v=nqUq8Jh4vUA)
 * [scientists (including citizens)](https://www.whoi.edu/know-your-ocean/ocean-topics/ocean-life/right-whales/)
 * management- multi-level
   * [Atlantic Large Whale Take Reduction](https://www.youtube.com/watch?v=fgrjMufULng) - 1997 (25 years)
