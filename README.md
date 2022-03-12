@@ -41,7 +41,7 @@
 ## where / when  
    https://whalemap.ocean.dal.ca/#map
 
-[2019 Canada]()
+[2019 Canada](2019_NARW_incident_report_June_2020-compressed.pdf)
 
 Critical Habitat (Fisheries and Oceans Canada, 2014
 
