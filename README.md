@@ -36,6 +36,8 @@
 
 ## why
 
+There are two endangered populations at stake here: the North Atlantic right whale and the Maine lobster fishermen.”
+
 https://apps.bostonglobe.com/metro/2021/12/the-lobster-trap/?p1=Article_Inline_Related_Link
 
 lobster fishing has moved farther off-shore (overfishing nearer?) and ropes got stronger 
