@@ -7,6 +7,8 @@
 
 [another film - Entangled](https://entangled-film.com/)
 
+<hr/>
+
 ## what 
 
 [North Atlantic Right Whale - Eubalaena glacialis](https://www.fisheries.noaa.gov/species/north-atlantic-right-whale)
@@ -15,6 +17,9 @@
 [Whale Anatomy](https://oceantoday.noaa.gov/whaleanatomy/welcome.html)
 
 [Human Connections](https://ocean.si.edu/ocean-life/marine-mammals/north-atlantic-right-whale)
+
+
+<hr/>
 
 ## whoi
 * whales http://rwcatalog.neaq.org/#/whales
@@ -31,8 +36,13 @@
   * tracking vessels for research and enforcement
 * shipping
 
+<hr/>
+
 ## where / when  
    https://whalemap.ocean.dal.ca/#map
+
+
+<hr/>
 
 ## why
 
@@ -45,6 +55,9 @@ Due to warming waters in [Gulf of Maine, lobster fishing](https://lobsterfrommai
 [A Risk Analysis of Entanglement](https://storymaps.arcgis.com/stories/efb2e1d058054fb6a1487d964397bffd)
 
 ["Unusual Mortality"](https://www.fisheries.noaa.gov/national/marine-life-distress/2017-2022-north-atlantic-right-whale-unusual-mortality-event)
+
+
+<hr/>
 
 ## how 
 
