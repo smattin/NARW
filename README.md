@@ -49,6 +49,8 @@ Critical Habitat (Fisheries and Oceans Canada, 2014
 
 ## why
 
+"The principal factor believed to be retarding growth and recovery of the [NARW] population is entanglement with fishing gear" - [NOAA Technical Memorandum NMFS-NE-258](noaa_20611_DS1.pdf)
+
 "There are two endangered populations at stake here: the North Atlantic right whale and the Maine lobster fishermen.” - [The Lobster Trap](https://apps.bostonglobe.com/metro/2021/12/the-lobster-trap/?p1=Article_Inline_Related_Link)
 
 The lobster industry in Maine doubled since 2000
