@@ -36,11 +36,11 @@
 
 ## why
 
-There are two endangered populations at stake here: the North Atlantic right whale and the Maine lobster fishermen.”
+"There are two endangered populations at stake here: the North Atlantic right whale and the Maine lobster fishermen.” - [The Lobster Trap](https://apps.bostonglobe.com/metro/2021/12/the-lobster-trap/?p1=Article_Inline_Related_Link)
 
-https://apps.bostonglobe.com/metro/2021/12/the-lobster-trap/?p1=Article_Inline_Related_Link
+The lobster industry in Maine doubled since 2000
 
-lobster fishing has moved farther off-shore (overfishing nearer?) and ropes got stronger 
+Due to warming waters in [Gulf of Maine, lobster fishing](https://lobsterfrommaine.com/protecting-our-oceans-and-coasts/) has moved farther North and off-shore, ropes got stronger
 
 [A Risk Analysis of Entanglement](https://storymaps.arcgis.com/stories/efb2e1d058054fb6a1487d964397bffd)
 
@@ -53,6 +53,7 @@ lobster fishing has moved farther off-shore (overfishing nearer?) and ropes got 
 [AI for whale id from photos](https://www.fisheries.noaa.gov/new-england-mid-atlantic/science-data/artificial-intelligence-right-whale-photo-identification) https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.13226 
 
 Closures around Cape Code since 2015
+Closures in Maine since 2021
 
 ### and how [gory](https://github.com/robibok/whales) [details](https://blog.deepsense.ai/deep-learning-right-whale-recognition-kaggle/)
 
