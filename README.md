@@ -36,6 +36,8 @@
 
 ## why
 
+https://apps.bostonglobe.com/metro/2021/12/the-lobster-trap/?p1=Article_Inline_Related_Link
+
 lobster fishing has moved farther off-shore (overfishing nearer?) and ropes got stronger 
 
 [A Risk Analysis of Entanglement](https://storymaps.arcgis.com/stories/efb2e1d058054fb6a1487d964397bffd)
