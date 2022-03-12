@@ -53,7 +53,7 @@ Critical Habitat (Fisheries and Oceans Canada, 2014
 
 "There are two endangered populations at stake here: the North Atlantic right whale and the Maine lobster fishermen.” - [The Lobster Trap](https://apps.bostonglobe.com/metro/2021/12/the-lobster-trap/?p1=Article_Inline_Related_Link)
 
-[The lobster industry in Maine has more than doubled since 2000](https://www.maine.gov/dmr/commercial-fishing/landings/documents/lobster.graph.2021.pdf)
+[The lobster industry in Maine has doubled since 2000](https://www.maine.gov/dmr/commercial-fishing/landings/documents/lobster.graph.2021.pdf)
 
 Due to warming waters in [Gulf of Maine, lobster fishing](https://lobsterfrommaine.com/protecting-our-oceans-and-coasts/) has moved farther North and off-shore, ropes got stronger
 
