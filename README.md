@@ -63,7 +63,9 @@ DOI: 10.1111/cobi.12590
 
 [A Risk Analysis of Entanglement](https://storymaps.arcgis.com/stories/efb2e1d058054fb6a1487d964397bffd)
 
-["Unusual Mortality"](https://www.fisheries.noaa.gov/national/marine-life-distress/2017-2022-north-atlantic-right-whale-unusual-mortality-event)
+["Unusual Mortality Event"](https://www.fisheries.noaa.gov/national/marine-life-distress/2017-2022-north-atlantic-right-whale-unusual-mortality-event):
+"a stranding that is unexpected, involves a significant die-off of any marine mammal population, and demands
+immediate response"
 
 
 <hr/>
