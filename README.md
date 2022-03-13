@@ -56,6 +56,8 @@ Critical Habitat (Fisheries and Oceans Canada, 2014
 
 [The lobster industry in Maine has doubled since 2000](https://www.maine.gov/dmr/commercial-fishing/landings/documents/lobster.graph.2021.pdf)
 
+[Since 2010, the average number of new NARW calves per year has halved, from 23 to 12](https://www.int-res.com/articles/feature/d143p205.pdf)
+
 Due to warming waters in [Gulf of Maine, lobster fishing](https://lobsterfrommaine.com/protecting-our-oceans-and-coasts/) has moved farther North and off-shore, ropes got stronger
 
   * Knowlton, A.R., J. Robbins, S. Landry, H.A. McKenna, S.D. Kraus and T.B. Werner. 2016. Effects of fishing rope
@@ -67,7 +69,6 @@ DOI: 10.1111/cobi.12590
 ["Unusual Mortality Event"](https://www.fisheries.noaa.gov/national/marine-life-distress/2017-2022-north-atlantic-right-whale-unusual-mortality-event):
 "a stranding that is unexpected, involves a significant die-off of any marine mammal population, and demands
 immediate response"
-
 
 <hr/>
 
