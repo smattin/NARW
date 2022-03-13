@@ -11,8 +11,9 @@
 
 ## what 
 
-[North Atlantic Right Whale - Eubalaena glacialis](https://www.fisheries.noaa.gov/species/north-atlantic-right-whale)
-* [NORTH PACIFIC RIGHT WHALE - Eubalaena japonica](https://www.fisheries.noaa.gov/species/north-pacific-right-whale)
+* [North Atlantic Right Whale - Eubalaena glacialis](https://www.fisheries.noaa.gov/species/north-atlantic-right-whale)
+* [North Pacific Right Whale - Eubalaena japonica](https://www.fisheries.noaa.gov/species/north-pacific-right-whale)
+* Southern Right Whale - E. australis
 
 [Whale Anatomy](https://oceantoday.noaa.gov/whaleanatomy/welcome.html)
 
