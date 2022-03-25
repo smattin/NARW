@@ -85,7 +85,7 @@ Closures in Maine since 2021
 
 ### and how [gory](https://github.com/robibok/whales) [details](https://blog.deepsense.ai/deep-learning-right-whale-recognition-kaggle/)
 
-* ROVs - acoustic detection of whales
+* ROVs - [acoustic detection of whales](https://asa.scitation.org/doi/10.1121/10.0005898)
 * season limits -
 * speed limits - slow down when right whales are seen
   * "voluntary cooperation with DMAs has not proven to have a meaningful impact on vessel speed reduction"
