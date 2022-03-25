@@ -88,6 +88,7 @@ Closures in Maine since 2021
 * ROVs - acoustic detection of whales
 * season limits -
 * speed limits - slow down when right whales are seen
+  * "voluntary cooperation with DMAs has not proven to have a meaningful impact on vessel speed reduction"
 * traps/trawl - less vertical lines
 * weak rope and ropeless aka on-call fishing gear
   * [weak rope - breaks](https://www.mass.gov/doc/12422-dmf-offering-free-buoy-line-marking-materials-and-additional-free-weak-rope/download)
